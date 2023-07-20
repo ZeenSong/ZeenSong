@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZeenSong&label=Profile%20views&color=0e75b6&style=flat" alt="ZeenSong" /> </p>
 
-- :person_frowning: I am currently a PhD student at the Institute of Software, China Academy of Science
+- :bust_in_silhouette: I am currently a PhD student at the Institute of Software, China Academy of Science
 
 - :book: My research interest is Self-Supervised learning, representation learning.
 
